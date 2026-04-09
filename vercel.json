@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/quotes/:lang", "destination": "/public/quotes/quotes.js" },
+    { "source": "/quotes", "destination": "/public/quotes/index.html" }
+  ]
+}
